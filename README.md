@@ -1,10 +1,10 @@
 # Performance_Metrics
 
 1.	Accuracy:
-•	Formula: (TP + TN) / (TP + TN + FP + FN)
-•	Example: Predicting whether an email is spam (binary classification).
-•	Use Case: Balanced datasets with roughly equal class distribution.
-•	Not Ideal For: Imbalanced datasets where one class is much more frequent.
+* •	Formula: (TP + TN) / (TP + TN + FP + FN)
+* •	Example: Predicting whether an email is spam (binary classification).
+* •	Use Case: Balanced datasets with roughly equal class distribution.
+* •	Not Ideal For: Imbalanced datasets where one class is much more frequent.
 2.	Precision:
 •	Formula: TP / (TP + FP)
 •	Example: Medical diagnosis to minimize false positives (e.g., disease detection).
